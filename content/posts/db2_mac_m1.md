@@ -5,6 +5,9 @@ description: A guide on how to connect to Db2 using Apple Silicon
 topic: Python
 ---
 
+
+ {{< figure src="https://i.imgur.com/oS1owgB.png" title="" >}} 
+
 Despite Apple launching their ARM-based processors in late 2020, IBM Db2 still does not support using the IBM ODBC driver on Apple Silicon (M1, M2, etc). Please support [this request for an Apple silicon version of the IBM Db2 driver.](https://ibm-data-and-ai.ideas.ibm.com/ideas/DB2CON-I-92). 
 
 
