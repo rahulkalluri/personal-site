@@ -5,7 +5,8 @@
 
 .post-title {
     margin-bottom: 2px;
-    font-size: 40px;
+    font-size: 50px;
+    color: #3464eb;
 }
 
 .post-description {
@@ -239,6 +240,7 @@
 
 .post-content img[src*="#center"] {
     margin: 1rem auto;
+    max-width: 35%;
 }
 
 .post-content figure.align-center {
